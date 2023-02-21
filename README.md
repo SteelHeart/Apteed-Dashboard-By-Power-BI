@@ -1,10 +1,8 @@
-# Apteed-Dashboard-By-Power-BI
-
 ### Objectifs du tableau de bord
 
-- CA rapport par client
+- [ ] CA rapport par client
 
-- CA rapport par commercial
+- [ ] CA rapport par commercial
     - [ ] Annuel
     - [ ] Semestriel
     - [ ] Trimestriel
@@ -16,21 +14,21 @@
     - [ ] Trimestrielles
     - [ ] Mensuelles
 
-- Ventes effectuées par Région / Département
+- [ ] Ventes effectuées par Région / Département
     - [ ] Annuelles
     - [ ] Semestrielles
     - [ ] Trimestrielles
     - [ ] Mensuelles
 
-- Ventes effectuées par profession
+- [ ] Ventes effectuées par profession
     - [ ] Annuelles
     - [ ] Semestrielles
     - [ ] Trimestrielles
     - [ ] Mensuelles
 
-- Rapport des inscriptions : Inscrit, inscritD, Désinscrit
+- [ ] Rapport des inscriptions : Inscrit, inscritD, Désinscrit
 
-- Formation les plus vendues
-- Formation les moins vendues
-- Formations les plus profitables
-- Formations les moins profitables
+- [ ] Formation les plus vendues
+- [ ] Formation les moins vendues
+- [ ] Formations les plus profitables
+- [ ] Formations les moins profitables
